@@ -8,8 +8,6 @@
 
 ## Dashboard
 
-### Dashboard Desktop
-
 O dashboard pode ser visualizado online e de maneira interativa clicando na imagem abaixo:
 
 <p align="center">
